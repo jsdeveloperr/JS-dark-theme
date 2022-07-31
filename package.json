@@ -3,7 +3,7 @@
   "displayName": "JS Dark Theme",
   "description": "The vscode js dark theme",
   "icon": "assets/js.webp",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "publisher": "AbdulnasirOlcan",
   "repository": {
       "type": "git",

@@ -1,9 +1,9 @@
-# :boom: JS dark theme
+# JS dark theme
 
 > This is a vscode js dark theme
 
 <p align="center">
-    <img src="https://github.com/jsdeveloperr/JS-dark-theme/blob/master/assets/js-dark-theme.gif" width="500" alt="js-dark-theme" />
+    <img src="https://js-dark-theme.vercel.app/js-dark-theme.gif" width="500" alt="js-dark-theme" />
 </p>
 
 ## Working with Markdown
