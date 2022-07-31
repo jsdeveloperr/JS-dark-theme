@@ -1,0 +1,33 @@
+{
+  "name": "js-dark-theme",
+  "displayName": "JS Dark",
+  "description": "The vscode js dark theme",
+  "icon": "assets/js.webp",
+  "version": "1.0.0",
+  "publisher": "AbdulnasirOlcan",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jsdeveloperr/JS-dark-theme"
+  },
+  "keywords": [
+      "theme",
+      "dark theme",
+      "js dark theme",
+      "theme dark js"
+  ],
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JS Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/js-color-theme.json"
+      }
+    ]
+  }
+}
