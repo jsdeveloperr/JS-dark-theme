@@ -1,4 +1,4 @@
-# JS dark theme
+# :boom: JS dark theme
 
 > This is a vscode js dark theme
 
